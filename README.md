@@ -1,2 +1,2 @@
-2css projects
+css projects
 
