@@ -1,2 +1,2 @@
-hicss projects
+ufhicss projects
 
